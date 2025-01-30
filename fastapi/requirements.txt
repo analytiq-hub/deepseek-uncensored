@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+litellm
+pydantic
+transformers
+datasets
+accelerate
+trl
+torch
